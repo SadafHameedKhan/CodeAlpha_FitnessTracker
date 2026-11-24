@@ -18,11 +18,10 @@ A simple, clean fitness tracking mobile app built with **React Native (Expo)** a
 
 ## Screenshots
 <p>
-  <img src="screenshots/dashboard.jpeg" width="200" />
-  <img src="screenshots/chart.jpeg" width="200" />
-  <img src="screenshots/history.jpeg" width="200" />
-  <img src="screenshots/add.jpeg" width="200" />
-  <img src="screenshots/goals.jpeg" width="200" />
+  <img src="screenshots/dashboard.jpeg" width="220" />
+  <img src="screenshots/chart.jpeg" width="220" />
+  <img src="screenshots/history.jpeg" width="220" />
+  <img src="screenshots/goals.jpeg" width="220" />
 </p>
 
 ## Getting Started
@@ -44,5 +43,6 @@ src/
   components/ (ProgressBar, BarChart, Fab)
   screens/ (Dashboard, History, AddEntry, Goals)
 ```
+
 
 
